@@ -1,6 +1,6 @@
 # IMTB – Digitale Transformation im öffentlichen Sektor
 
-Die IMTB Consulting GmbH unterstützt Behörden auf Bundes-, Landes- und Kommunalebene bei Organisations- und Digitalisierungsvorhaben – mit Fokus auf **Künstliche Intelligenz, Prozesse und sichere IT-Architekturen**.
+Die IMTB Solutions GmbH unterstützt Behörden auf Bundes-, Landes- und Kommunalebene bei Organisations- und Digitalisierungsvorhaben – mit Fokus auf **Künstliche Intelligenz, Prozesse und sichere IT-Architekturen**.
 
 Unser Ziel: **Verwaltung einfacher, effizienter und zukunftsfähig gestalten** – immer mit dem Menschen im Mittelpunkt.
 
