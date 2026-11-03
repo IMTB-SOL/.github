@@ -22,8 +22,4 @@ Die produktneutrale Beratung zu Organisation, Vergabe und Digitalisierung übern
 
 Eigenentwicklungen werden öffentlich, sobald Verträge, Lizenzen und Versionsgeschichte geprüft sind. Architekturbeschreibungen und Positionspapiere stehen bereits in [public-resources](https://github.com/IMTB-SOL/public-resources).
 
-## Kontakt
 
-- Softwareentwicklung: softwareentwicklung@imtb.de
-- Sicherheitslücken melden: security@imtb.de
-- <https://www.imtb.de/softwareentwicklung/>
