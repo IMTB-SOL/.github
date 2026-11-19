@@ -20,6 +20,6 @@ Die produktneutrale Beratung zu Organisation, Vergabe und Digitalisierung übern
 
 ## Veröffentlichungen
 
-Eigenentwicklungen werden öffentlich, sobald Verträge, Lizenzen und Versionsgeschichte geprüft sind. Architekturbeschreibungen und Positionspapiere stehen bereits in [public-resources](https://github.com/IMTB-SOL/public-resources).
+Eigenentwicklungen werden öffentlich, sobald Verträge, Lizenzen und Versionsgeschichte geprüft sind. 
 
 
